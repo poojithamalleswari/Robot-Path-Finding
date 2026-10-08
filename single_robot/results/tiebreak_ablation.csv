@@ -1,0 +1,4 @@
+heuristic,fifo,low_h,fifo_over_low_h
+chebyshev,294.626,268.048,1.099
+euclidean,254.278,242.522,1.048
+manhattan,174.181,83.096,2.096

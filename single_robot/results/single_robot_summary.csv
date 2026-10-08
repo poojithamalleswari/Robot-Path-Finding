@@ -1,0 +1,5 @@
+heuristic,success_rate,mean_nodes_expanded,mean_nodes_generated,mean_runtime_ms,mean_cost,mean_optimality_ratio
+chebyshev,1.0,268.048,310.896,1.244,28.896,1.0
+euclidean,1.0,242.522,275.885,1.142,28.896,1.0
+manhattan,1.0,83.096,128.733,0.419,28.896,1.0
+weighted_manhattan,1.0,54.726,92.052,0.284,29.83,1.0219823486543211
